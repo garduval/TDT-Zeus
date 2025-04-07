@@ -39,7 +39,14 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115933.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115934.m3u
 #EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="Canal Sur HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="ESPAÑA | TDT 4K-HD",Canal Sur HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115935.m3u
-
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="ESPAÑA | NOTICIAS",24 HORAS 4K
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/64356.m3u
+#EXTINF:-1 tvg-id="TVG.2.es" tvg-name="TVG 2" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",TVG 2
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/111131.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 CAT HD" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",TV 3 CAT HD
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/79733.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CANARIAS" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",CANAL CANARIAS
+http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/113441.m3u
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="ESPAÑA | TDT 4K-HD",Mega HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116256.m3u
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="ESPAÑA | TDT 4K-HD",Mega 4K
@@ -68,7 +75,6 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115946.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115947.m3u
 #EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="ESPAÑA | TDT 4K-HD",DARK FHD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115948.m3u
-
 #EXTINF:-1 tvg-id="Somos" tvg-name="Somos FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="ESPAÑA | TDT 4K-HD",Somos FHD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115950.m3u
 #EXTINF:-1 tvg-id="Nova" tvg-name="Nova FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="ESPAÑA | TDT 4K-HD",Nova FHD
@@ -79,7 +85,6 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115952.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115953.m3u
 #EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="ESPAÑA | TDT 4K-HD",Divinity FHD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115954.m3u
-
 #EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="ESPAÑA | TDT 4K-HD",FDF FHD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115967.m3u
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="ESPAÑA | TDT 4K-HD",Neox HD
@@ -98,21 +103,18 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115973.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115974.m3u
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="ESPAÑA | TDT 4K-HD",24 Horas 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115975.m3u
-
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="Canal Sur Andalucia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" group-title="ESPAÑA | TDT 4K-HD",Canal Sur Andalucia
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115980.m3u
 #EXTINF:-1 tvg-id="TV3CAT Catalunya" tvg-name="TV3 Cat 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png" group-title="ESPAÑA | TDT 4K-HD",TV3 Cat 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115981.m3u
 #EXTINF:-1 tvg-id="TV3CAT Catalunya" tvg-name="TV3 Cat HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png" group-title="ESPAÑA | TDT 4K-HD",TV3 Cat HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115982.m3u
-
 #EXTINF:-1 tvg-id="TVG" tvg-name="TVG HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" group-title="ESPAÑA | TDT 4K-HD",TVG HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115989.m3u
 #EXTINF:-1 tvg-id="TVG" tvg-name="TVG SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" group-title="ESPAÑA | TDT 4K-HD",TVG SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115990.m3u
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png" group-title="ESPAÑA | TDT 4K-HD",TV3 HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115991.m3u
-
 #EXTINF:-1 tvg-id="CMM TV" tvg-name="CASTILLA LA MANCHA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="ESPAÑA | TDT 4K-HD",CASTILLA LA MANCHA
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/12650.m3u
 #EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime 1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" group-title="ESPAÑA | MOVISTAR 4K-HD",SkyShowtime 1 4K
@@ -127,7 +129,6 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/209611.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/209612.m3u
 #EXTINF:-1 tvg-id="Max Avances" tvg-name="Max Avances SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Max%20Avances.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Max Avances SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/209613.m3u
-
 #EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="Indie por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Indie por M+ 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/118863.m3u
 #EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="Indie por M+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Indie por M+ HD
@@ -152,7 +153,6 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115999.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116000.m3u
 #EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Accion SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Accion SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116001.m3u
-
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Drama 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116005.m3u
 #EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Drama HD
@@ -183,7 +183,6 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116028.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116029.m3u
 #EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ Clasicos SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Clasicos SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116030.m3u
-
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AXN 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116031.m3u
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AXN HD
@@ -220,7 +219,6 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116046.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116047.m3u
 #EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC Break SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AMC Break SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116048.m3u
-
 #EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="ESPAÑA | MOVISTAR 4K-HD",SYFY HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116050.m3u
 #EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="ESPAÑA | MOVISTAR 4K-HD",SYFY SD
@@ -239,7 +237,6 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116056.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116057.m3u
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Paramount%20Network.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Paramount Channel
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116061.m3u
-
 #EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Documentales por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="ESPAÑA | DOCUMENTALES",Documentales por M+ 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/118861.m3u
 #EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Documentales por M+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="ESPAÑA | DOCUMENTALES",Documentales por M+ HD
@@ -258,16 +255,12 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116069.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116070.m3u
 #EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="ESPAÑA | DOCUMENTALES",Nat Geo Wild SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116071.m3u
-
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="ESPAÑA | DOCUMENTALES",AMC Crime FHD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116049.m3u
-
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="ESPAÑA | DOCUMENTALES",Discovery HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115962.m3u
-
 #EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="ESPAÑA | DOCUMENTALES",Odisea FHD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115961.m3u
-
 #EXTINF:-1 tvg-id="Historia" tvg-name="Historia 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="ESPAÑA | DOCUMENTALES",Historia 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115963.m3u
 #EXTINF:-1 tvg-id="Historia" tvg-name="Historia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="ESPAÑA | DOCUMENTALES",Historia HD
@@ -276,13 +269,11 @@ http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115964.m3u
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/115965.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Historia 2 ES" tvg-logo="" group-title="ESPAÑA | DOCUMENTALES",Historia 2 ES
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/210318.m3u
-
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER BROS 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="ESPAÑA | MOVISTAR 4K-HD",WARNER BROS 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116075.m3u
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER BROS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="ESPAÑA | MOVISTAR 4K-HD",WARNER BROS HD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116076.m3u
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER BROS SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="ESPAÑA | MOVISTAR 4K-HD",WARNER BROS SD
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116077.m3u
-
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="ESPAÑA | DOCUMENTALES",DMAX 4K
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/118575.m3u
